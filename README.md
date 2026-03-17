@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Akash Pandey
 
-<!--
-**akash1234-tech/akash1234-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student  
+💻 Learning Data Science  
+🐍 Python | Pandas | NumPy  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- I am currently learning Data Science step by step
+- Interested in Data Analysis and Machine Learning
+- Goal: To become a Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Pandas
+- NumPy
+- Data Cleaning
+
+## 🔗 Connect with me
+- LinkedIn: (https://www.linkedin.com/in/akash-pandey-b29a82370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
